@@ -1,6 +1,9 @@
 # donut.rs
+A donut shaped rust program which generates a 3D Spinning Donut , yeah! that's it
+Inspired from [donut.c by Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html)
 
-A donut shaped rust program which generates a 3D Spinning Donutcar
+![](https://github.com/aym-n/donut.rs/blob/master/dount-rs.gif)
+
 
 ```rust
                    use std::{thread,
@@ -27,4 +30,3 @@ A donut shaped rust program which generates a 3D Spinning Donutcar
 
 ```
 
-Inspired from [donut.c by Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html)
